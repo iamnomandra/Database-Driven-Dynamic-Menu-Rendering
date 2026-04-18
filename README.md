@@ -1,4 +1,4 @@
-## 🚀 RBAS (Role-Based Access System) With Roles And CRUD (Create, Read, Update & Delete) Permissions
+## 🚀 Database-Driven Dynamic Menu Rendering With Roles And CRUD (Create, Read, Update & Delete) Permissions
 
 A robust Role-Based Access System (RBAS) built using **.NET Core**, **Razor Pages**, and **SQL**, designed to provide dynamic UI rendering and fine-grained access control.
 
