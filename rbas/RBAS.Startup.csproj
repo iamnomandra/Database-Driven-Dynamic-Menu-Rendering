@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<AssemblyOriginatorKeyFile>rbas.startup.snk</AssemblyOriginatorKeyFile>
+	<Authors>Amit Kumar(github@iamnomandra)</Authors>
+	<Company>iamnomandra</Company>
+	<Description>Role base access system lib</Description>
+	<AssemblyVersion>1.0.0.1</AssemblyVersion>
+	<Version>1.0.0.0</Version>
+	<SignAssembly>True</SignAssembly> 
+  </PropertyGroup>
+
+ 
+</Project>
